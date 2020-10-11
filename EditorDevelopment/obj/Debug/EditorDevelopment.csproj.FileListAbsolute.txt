@@ -1,0 +1,6 @@
+C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_3\EditorDevelopment\bin\Debug\EditorDevelopment.exe.config
+C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_3\EditorDevelopment\bin\Debug\EditorDevelopment.exe
+C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_3\EditorDevelopment\bin\Debug\EditorDevelopment.pdb
+C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_3\EditorDevelopment\obj\Debug\EditorDevelopment.csprojAssemblyReference.cache
+C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_3\EditorDevelopment\obj\Debug\EditorDevelopment.exe
+C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_3\EditorDevelopment\obj\Debug\EditorDevelopment.pdb
