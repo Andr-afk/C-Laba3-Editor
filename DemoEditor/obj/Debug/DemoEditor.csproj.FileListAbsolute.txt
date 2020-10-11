@@ -2,8 +2,8 @@ C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_3\DemoEditor\bin\Debug\DemoEditor.ex
 C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_3\DemoEditor\bin\Debug\DemoEditor.exe
 C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_3\DemoEditor\bin\Debug\DemoEditor.pdb
 C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_3\DemoEditor\obj\Debug\DemoEditor.csprojAssemblyReference.cache
-C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_3\DemoEditor\obj\Debug\DemoEditor.Form1.resources
 C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_3\DemoEditor\obj\Debug\DemoEditor.Properties.Resources.resources
 C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_3\DemoEditor\obj\Debug\DemoEditor.csproj.GenerateResource.cache
 C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_3\DemoEditor\obj\Debug\DemoEditor.exe
 C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_3\DemoEditor\obj\Debug\DemoEditor.pdb
+C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_3\DemoEditor\obj\Debug\DemoEditor.MainForm.resources
