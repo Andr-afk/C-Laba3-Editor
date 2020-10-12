@@ -26,7 +26,7 @@ namespace EditorDevelopment
         //tested!
         public string ChangeSign()
         {
-            /*if (number == "0") this.number = "";
+            if (number == "0") this.number = "";
 
             if (number.Contains('-'))
             {
@@ -34,22 +34,6 @@ namespace EditorDevelopment
                 if (number == "") this.number = "0";
             }
             else this.number = '-' + this.number;
-
-            return this.number;*/
-
-
-            if (number == "0")
-            {
-                this.number = "-";
-            }
-            else
-            {
-                if (number.Contains('-'))
-                {
-                    this.number = number.Remove(0, 1);
-                }
-                else this.number = '-' + this.number;
-            }
 
             return this.number;
         }
@@ -78,7 +62,6 @@ namespace EditorDevelopment
                             case "15": symbol = "F"; break;
                         }
                     }
-
                     return symbol;
                 }
             }
