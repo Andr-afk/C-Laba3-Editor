@@ -9,13 +9,11 @@ namespace EditorDevelopment
     class Editor
     {
         string number;
-        
 
-        public Editor(string number)
+
+        public Editor()
         {
-            if (number is null) this.number = "0";
-            else this.number = number;
-
+            this.number = "0";
         }
 
         public string Number

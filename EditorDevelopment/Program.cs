@@ -10,7 +10,7 @@ namespace EditorDevelopment
     {
         static void Main(string[] args)
         {
-            Editor x = new Editor("1234");
+            Editor x = new Editor();
 
             Console.WriteLine(x.SetDot());
             Console.WriteLine(x.DoEdit(4));
