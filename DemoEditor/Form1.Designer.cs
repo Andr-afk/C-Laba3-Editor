@@ -97,6 +97,7 @@
             this.btn0.Tag = "number";
             this.btn0.Text = "0";
             this.btn0.UseVisualStyleBackColor = true;
+            this.btn0.Click += new System.EventHandler(this.btnB_Click);
             // 
             // btnA
             // 
@@ -108,6 +109,7 @@
             this.btnA.Tag = "number";
             this.btnA.Text = "A";
             this.btnA.UseVisualStyleBackColor = true;
+            this.btnA.Click += new System.EventHandler(this.btnB_Click);
             // 
             // btn9
             // 
@@ -119,6 +121,7 @@
             this.btn9.Tag = "number";
             this.btn9.Text = "9";
             this.btn9.UseVisualStyleBackColor = true;
+            this.btn9.Click += new System.EventHandler(this.btnB_Click);
             // 
             // btn8
             // 
@@ -130,6 +133,7 @@
             this.btn8.Tag = "number";
             this.btn8.Text = "8";
             this.btn8.UseVisualStyleBackColor = true;
+            this.btn8.Click += new System.EventHandler(this.btnB_Click);
             // 
             // btn7
             // 
@@ -141,6 +145,7 @@
             this.btn7.Tag = "number";
             this.btn7.Text = "7";
             this.btn7.UseVisualStyleBackColor = true;
+            this.btn7.Click += new System.EventHandler(this.btnB_Click);
             // 
             // btn6
             // 
@@ -152,6 +157,7 @@
             this.btn6.Tag = "number";
             this.btn6.Text = "6";
             this.btn6.UseVisualStyleBackColor = true;
+            this.btn6.Click += new System.EventHandler(this.btnB_Click);
             // 
             // btn5
             // 
@@ -163,6 +169,7 @@
             this.btn5.Tag = "number";
             this.btn5.Text = "5";
             this.btn5.UseVisualStyleBackColor = true;
+            this.btn5.Click += new System.EventHandler(this.btnB_Click);
             // 
             // btn4
             // 
@@ -174,6 +181,7 @@
             this.btn4.Tag = "number";
             this.btn4.Text = "4";
             this.btn4.UseVisualStyleBackColor = true;
+            this.btn4.Click += new System.EventHandler(this.btnB_Click);
             // 
             // btn3
             // 
@@ -185,6 +193,7 @@
             this.btn3.Tag = "number";
             this.btn3.Text = "3";
             this.btn3.UseVisualStyleBackColor = true;
+            this.btn3.Click += new System.EventHandler(this.btnB_Click);
             // 
             // btn2
             // 
@@ -196,6 +205,7 @@
             this.btn2.Tag = "number";
             this.btn2.Text = "2";
             this.btn2.UseVisualStyleBackColor = true;
+            this.btn2.Click += new System.EventHandler(this.btnB_Click);
             // 
             // btn1
             // 
@@ -207,6 +217,7 @@
             this.btn1.Tag = "number";
             this.btn1.Text = "1";
             this.btn1.UseVisualStyleBackColor = true;
+            this.btn1.Click += new System.EventHandler(this.btnB_Click);
             // 
             // btnF
             // 
@@ -218,6 +229,7 @@
             this.btnF.Tag = "number";
             this.btnF.Text = "F";
             this.btnF.UseVisualStyleBackColor = true;
+            this.btnF.Click += new System.EventHandler(this.btnB_Click);
             // 
             // btnE
             // 
@@ -229,6 +241,7 @@
             this.btnE.Tag = "number";
             this.btnE.Text = "E";
             this.btnE.UseVisualStyleBackColor = true;
+            this.btnE.Click += new System.EventHandler(this.btnB_Click);
             // 
             // btnD
             // 
@@ -240,6 +253,7 @@
             this.btnD.Tag = "number";
             this.btnD.Text = "D";
             this.btnD.UseVisualStyleBackColor = true;
+            this.btnD.Click += new System.EventHandler(this.btnB_Click);
             // 
             // btnC
             // 
@@ -251,6 +265,7 @@
             this.btnC.Tag = "number";
             this.btnC.Text = "C";
             this.btnC.UseVisualStyleBackColor = true;
+            this.btnC.Click += new System.EventHandler(this.btnB_Click);
             // 
             // btnB
             // 
@@ -262,6 +277,7 @@
             this.btnB.Tag = "number";
             this.btnB.Text = "B";
             this.btnB.UseVisualStyleBackColor = true;
+            this.btnB.Click += new System.EventHandler(this.btnB_Click);
             // 
             // btnClear
             // 
@@ -269,10 +285,11 @@
             this.btnClear.Location = new System.Drawing.Point(386, 174);
             this.btnClear.Name = "btnClear";
             this.btnClear.Size = new System.Drawing.Size(120, 47);
-            this.btnClear.TabIndex = 18;
+            this.btnClear.TabIndex = 19;
             this.btnClear.Tag = "edit";
             this.btnClear.Text = "Clear";
             this.btnClear.UseVisualStyleBackColor = true;
+            this.btnClear.Click += new System.EventHandler(this.btnB_Click);
             // 
             // btnAddPoint
             // 
@@ -280,10 +297,11 @@
             this.btnAddPoint.Location = new System.Drawing.Point(386, 280);
             this.btnAddPoint.Name = "btnAddPoint";
             this.btnAddPoint.Size = new System.Drawing.Size(75, 47);
-            this.btnAddPoint.TabIndex = 20;
+            this.btnAddPoint.TabIndex = 16;
             this.btnAddPoint.Tag = "edit";
             this.btnAddPoint.Text = ".";
             this.btnAddPoint.UseVisualStyleBackColor = true;
+            this.btnAddPoint.Click += new System.EventHandler(this.btnB_Click);
             // 
             // btnChangeSign
             // 
@@ -291,10 +309,11 @@
             this.btnChangeSign.Location = new System.Drawing.Point(386, 227);
             this.btnChangeSign.Name = "btnChangeSign";
             this.btnChangeSign.Size = new System.Drawing.Size(94, 47);
-            this.btnChangeSign.TabIndex = 19;
+            this.btnChangeSign.TabIndex = 17;
             this.btnChangeSign.Tag = "edit";
             this.btnChangeSign.Text = "+/-";
             this.btnChangeSign.UseVisualStyleBackColor = true;
+            this.btnChangeSign.Click += new System.EventHandler(this.btnB_Click);
             // 
             // btnBackspace
             // 
@@ -302,10 +321,11 @@
             this.btnBackspace.Location = new System.Drawing.Point(386, 121);
             this.btnBackspace.Name = "btnBackspace";
             this.btnBackspace.Size = new System.Drawing.Size(174, 47);
-            this.btnBackspace.TabIndex = 17;
+            this.btnBackspace.TabIndex = 18;
             this.btnBackspace.Tag = "edit";
             this.btnBackspace.Text = "BackSpace";
             this.btnBackspace.UseVisualStyleBackColor = true;
+            this.btnBackspace.Click += new System.EventHandler(this.btnB_Click);
             // 
             // MainForm
             // 

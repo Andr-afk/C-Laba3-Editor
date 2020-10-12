@@ -7,3 +7,7 @@ C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_3\DemoEditor\obj\Debug\DemoEditor.cs
 C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_3\DemoEditor\obj\Debug\DemoEditor.exe
 C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_3\DemoEditor\obj\Debug\DemoEditor.pdb
 C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_3\DemoEditor\obj\Debug\DemoEditor.MainForm.resources
+C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_3\DemoEditor\bin\Debug\EditorDevelopment.exe
+C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_3\DemoEditor\bin\Debug\EditorDevelopment.pdb
+C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_3\DemoEditor\bin\Debug\EditorDevelopment.exe.config
+C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_3\DemoEditor\obj\Debug\DemoEditor.csproj.CopyComplete

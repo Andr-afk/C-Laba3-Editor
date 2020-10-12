@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EditorDevelopment
 {
-    class Editor
+    public class Editor
     {
         string number;
 
@@ -26,8 +26,30 @@ namespace EditorDevelopment
         //tested!
         public string ChangeSign()
         {
-            if (number.Contains('-')) this.number = number.Remove(0, 1);
+            /*if (number == "0") this.number = "";
+
+            if (number.Contains('-'))
+            {
+                this.number = number.Remove(0, 1);
+                if (number == "") this.number = "0";
+            }
             else this.number = '-' + this.number;
+
+            return this.number;*/
+
+
+            if (number == "0")
+            {
+                this.number = "-";
+            }
+            else
+            {
+                if (number.Contains('-'))
+                {
+                    this.number = number.Remove(0, 1);
+                }
+                else this.number = '-' + this.number;
+            }
 
             return this.number;
         }
@@ -39,7 +61,7 @@ namespace EditorDevelopment
             //функция заменяет число на A, B, C, D, E, F, если оно больше 9
             string replacer()
             {
-                if (digit == 0) return this.number;
+                if (digit == 0) return "0";
                 else
                 {
                     string symbol = Convert.ToString(digit);
@@ -72,12 +94,10 @@ namespace EditorDevelopment
         //tested!
         public string BS()
         {
-            if (this.number == "0") return this.number;
+            if (this.number.Length <= 1) this.number = "0";
+            else this.number = this.number.Remove(number.Length - 1, 1);
 
-            else
-            {
-                return this.number.Remove(number.Length - 1, 1);
-            }
+            return this.number;
         }
 
 
